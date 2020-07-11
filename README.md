@@ -4,4 +4,4 @@ AnanacScript - скрипт, который предназначеный для 
 
 Команда для скачивания и инсталяции:
 
-cd && git clone https://github.com/AnanacScript && cd AnanacScript && chmod +x ./setup.sh && ./setup.sh
+cd && git clone https://github.com/Ananac0/AnanacScript && cd AnanacScript && chmod +x ./setup.sh && ./setup.sh
